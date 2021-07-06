@@ -110,6 +110,5 @@
     "go.alternateTools": {
         "go-langserver": "gopls", 
     },
-    "go.useLanguageServer": false,
     "go.languageServerFlags": [],
 }
